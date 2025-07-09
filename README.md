@@ -20,3 +20,6 @@
 ```bash
 gcc health_sensor.c -o sensor && ./sensor
 python health_monitor.py
+
+
+![health_monitor_graph](https://github.com/user-attachments/assets/2ec95cee-e8f6-4c15-bb89-081e6f06fe1e)
