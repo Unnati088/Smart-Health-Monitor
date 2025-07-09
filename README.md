@@ -21,5 +21,8 @@
 gcc health_sensor.c -o sensor && ./sensor
 python health_monitor.py
 
+## 📊 Sample Graph Output
 
-![health_monitor_graph](https://github.com/user-attachments/assets/2ec95cee-e8f6-4c15-bb89-081e6f06fe1e)
+[Health Monitor Graph](https://github.com/Unnati088/Smart-Health-Monitor/raw/main/health_monitor_graph.png)
+
+
